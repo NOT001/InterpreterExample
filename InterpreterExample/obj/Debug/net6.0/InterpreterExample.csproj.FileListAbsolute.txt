@@ -1,0 +1,14 @@
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\bin\Debug\net6.0\InterpreterExample.exe
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\bin\Debug\net6.0\InterpreterExample.deps.json
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\bin\Debug\net6.0\InterpreterExample.runtimeconfig.json
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\bin\Debug\net6.0\InterpreterExample.dll
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\bin\Debug\net6.0\InterpreterExample.pdb
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.AssemblyInfoInputs.cache
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.AssemblyInfo.cs
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.dll
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\refint\InterpreterExample.dll
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.pdb
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\InterpreterExample.genruntimeconfig.cache
+C:\Users\Nguyen Ha\source\repos\InterpreterExample\InterpreterExample\obj\Debug\net6.0\ref\InterpreterExample.dll
